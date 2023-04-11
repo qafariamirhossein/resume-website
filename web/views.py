@@ -18,3 +18,7 @@ def contact_view(request):
     else:
         form = ContactForm()
     return render(request,'index.html',{'form':form})
+
+
+def chat_view(request):
+    return render(request, 'chat.html',)
