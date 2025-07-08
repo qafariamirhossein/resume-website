@@ -15,6 +15,16 @@ This is a personal website and portfolio for AmirHossein Qafari, built with Djan
 - Django 4.2
 - Bootstrap (frontend)
 
+## Screenshots
+
+Here are some screenshots of the website:
+
+![Home 1](statics/images/screenshots/home-1.png)
+![Home 2](statics/images/screenshots/home-2.png)
+![Home 3](statics/images/screenshots/home-3.png)
+![Home 4](statics/images/screenshots/home-4.png)
+![Home 5](statics/images/screenshots/home-5.png)
+
 ## Getting Started
 1. Install dependencies:
    ```bash
@@ -33,3 +43,4 @@ This is a personal website and portfolio for AmirHossein Qafari, built with Djan
 ## License
 See [LICENSE](LICENSE) for details.
  
+
